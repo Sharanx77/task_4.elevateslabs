@@ -30,7 +30,6 @@ task_4.elevateslabs/
 ├── about.html          # Detailed skills and education
 ├── contact.html        # Contact information and form
 └── README.md           # Project documentation
-**
 ```
 ## 📬 Contact
 
