@@ -3,7 +3,7 @@
 A responsive, multi-page personal portfolio website built as part of the Elevate Labs internship tasks. This project demonstrates the implementation of a consistent navigation system, shared CSS architecture, and a modern "Dark Mode" visual theme.
 
 ## 🚀 Live Demo
-[click this](https://sharanx77.github.io/task_4.elevateslabs/index.html)
+[Click this for live demo](https://sharanx77.github.io/task_4.elevateslabs/index.html)
 
 ## ✨ Features
 
